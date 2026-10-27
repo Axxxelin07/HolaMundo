@@ -4,10 +4,10 @@ public class App {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner (System.in);
 
-        System.out.println("Escribe un texto");
+        System.out.println("¿Como te llamas?");
         String mensaje = sc.nextLine();
 
-        System.out.println("Has escrito: "+mensaje);
+        System.out.println("Hola: " +mensaje+ " ¿Como estas ?");
         sc.close();
     }
 }
