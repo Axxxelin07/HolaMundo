@@ -7,7 +7,7 @@ public class App {
         System.out.println("¿Como te llamas?");
         String mensaje = sc.nextLine();
 
-        System.out.println("Hola: " +mensaje+ " ¿Como estas ?");
+        System.out.println("¡Hola, " + mensaje + "! Bienvenido a mi programa.");
         sc.close();
     }
 }
