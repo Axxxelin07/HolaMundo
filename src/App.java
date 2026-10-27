@@ -8,6 +8,7 @@ public class App {
         String mensaje = sc.nextLine();
 
         System.out.println("¡Hola, " + mensaje + "!Espero que estes bien ");
+        System.out.println("¡Hola, " + mensaje + "¡ Que tengas un bune día :)  ");
         sc.close();
     }
 }
