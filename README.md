@@ -9,3 +9,6 @@ Proyecto Java para practicar el control de versiones con Git y la colaboración 
 ## Colaboracion en equipo
 Este proyecto se desarrolla entre dos compañeros utilizando Git y GitHub
 linea nueva 
+## Autoría
+
+Proyecto realizado por dos compañeros para practicar Git y GitHub.
