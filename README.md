@@ -8,3 +8,4 @@ Proyecto Java para practicar el control de versiones con Git y la colaboración 
 - Compartir el proyecto mediante un repositorio remoto en GitHub.
 ## Colaboracion en equipo
 Este proyecto se desarrolla entre dos compañeros utilizando Git y GitHub
+linea nueva 
